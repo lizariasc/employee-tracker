@@ -1,3 +1,20 @@
+INSERT INTO department (name) 
+VALUES ('Engineering'),
+('Sales'),
+('Design'),
+('Legal');
+
+
+INSERT INTO role (title, salary, department_id) 
+VALUES ('Sales Lead', 100000, 1),
+('Sales Person', 80000, 1),
+('Design Manager', 100000, 2),
+('Designer', 80000, 2),
+('Lead Engineer', 120000, 3),
+('Software Engineer', 90000, 3),
+('Legal Team Lead', 150000, 4),
+('Legal Advisor', 100000, 4);
+
 INSERT INTO employee (id, first_name, last_name, role_id, manager_id) 
 VALUES
 (4, "Charbelle", "Chaz", 3, null),

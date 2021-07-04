@@ -22,6 +22,14 @@ connection.connect(function(err) {
     Init();
 });
 
+// Delete a employee
+db.query(`DELETE FROM employee WHERE id = ?`, 1, (err, result) => {
+  if (err) {
+    console.log(err);
+  }
+  console.log(result);
+});
+
 function Init() {
     inquirer
     .prompt({
