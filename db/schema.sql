@@ -54,4 +54,3 @@ VALUES
     ('Gary', 'Peyton', 6, 5),
     ('Magic', 'Johnson', 7, NULL),
     ('Larry', 'Bird', 8, 7);
-    
