@@ -22,5 +22,5 @@ Contributor Covenant.
 ## Questions
 If you have any questions about this project, send me an email at lizethariasc14@gmail.com or contact me through my [GitHub](https://github.com/lizariasc).
 
-## Demo Video (click the image to go to the walkthrough video)
+## Demo Video (Click the image to go to the walkthrough video)
 [![Video Demo](video.png)]()
