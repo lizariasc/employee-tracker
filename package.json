@@ -12,7 +12,7 @@
     "url": "git+https://github.com/lizariasc/employee-tracker.git"
   },
   "keywords": [],
-  "author": "",
+  "author": "Liz Arias",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/lizariasc/employee-tracker/issues"
@@ -22,6 +22,7 @@
     "console.table": "^0.10.0",
     "express": "^4.17.1",
     "inquirer": "^8.1.1",
-    "mysql2": "^2.2.5"
+    "mysql2": "^2.2.5",
+    "promise-mysql": "^5.0.3"
   }
 }
